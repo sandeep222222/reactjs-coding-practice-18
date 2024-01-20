@@ -1,0 +1,22 @@
+/* Write your code here. */
+
+.emoji-item {
+  width: 32%;
+  list-style-type: none;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.emoji-btn {
+  background-color: #ffffff33;
+  cursor: pointer;
+  outline: none;
+  width: 100%;
+  border: 30px solid #ffffff33;
+  border-radius: 24px;
+}
+
+
+.emoji-icon{
+    width:50px;
+}
